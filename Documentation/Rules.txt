@@ -1,0 +1,4 @@
+The objective of this game is to have fun answering personal yes or no questions and then try to guess the total number of players who said yes. This game can be played from 1 to 6 players and currently consists of a total of 10 questions, which means 10 rounds maximum.
+A player will have to decide to host the game, that is to say that he will be a server for other players wanting to play with him. Nothing could be simpler, just click on "HOST" and enter the requested information, other players can then join the game once the server has been created by clicking on "JOIN" and enter the requested informations.
+For point calculation, any player with the correct answer will instantly earn 2 points and if noone has the correct answer, the closest player(s) with a lower score will earn 1 point. Total scores will be displayed at the end of the game. Once you finished a game, please go back to home page before starting another game.
+Have fun !

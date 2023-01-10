@@ -1,0 +1,15 @@
+﻿<Window x:Class="KnowYourFriends.GuessAnswers"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KnowYourFriends"
+        mc:Ignorable="d"
+        Title="GuessAnswers" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="TextBlockTryGuess" HorizontalAlignment="Center" Margin="0,100,0,0" TextWrapping="Wrap" Text="Try to guess the number of YES answers" VerticalAlignment="Top" FontSize="36"/>
+        <TextBox x:Name="TextBoxTryGuess" HorizontalAlignment="Center" TextWrapping="Wrap" Text="2" VerticalAlignment="Center" Width="120" TextAlignment="Center"/>
+        <Button x:Name="ButtonConfirm" Content="CONFIRM" HorizontalAlignment="Center" Margin="0,300,0,0" VerticalAlignment="Top" Height="50" Width="75" Click="ButtonConfirm_Click"/>
+        <Image HorizontalAlignment="Left" Height="45" Margin="650,300,0,0" VerticalAlignment="Top" Width="100" Source="/View/cesi_RVB_ENT.png"/>
+    </Grid>
+</Window>
